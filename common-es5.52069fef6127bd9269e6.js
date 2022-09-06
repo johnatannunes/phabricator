@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{CRri:function(e,t,o){e.exports=function(){"use strict";return{code:"pt",week:{dow:1,doy:4},buttonText:{prev:"Anterior",next:"Seguinte",today:"Hoje",month:"M\xeas",week:"Semana",day:"Dia",list:"Agenda"},weekLabel:"Sem",allDayText:"Todo o dia",eventLimitText:"mais",noEventsMessage:"N\xe3o h\xe1 eventos para mostrar"}}()}}]);
