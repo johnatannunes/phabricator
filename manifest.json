@@ -1,0 +1,51 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Harmonize Software",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "http://localhost:8080/",
+  "short_name": "Harmonize",
+  "theme_color": "#33383e",
+  "description": "Phabricator Software",
+  "orientation": "any",
+  "background_color": "#0072d6",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "36x36",
+      "density": "0.75"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "density": "1.0"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "72x72",
+      "density": "1.5"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "96x96",
+      "density": "2.0"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "144x144",
+      "density": "3.0"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "density": "4.0"
+    }
+  ]
+}
